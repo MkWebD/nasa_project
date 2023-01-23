@@ -27,5 +27,8 @@
   "homepage": "https://github.com/MkWebD/nasa_project#readme",
   "devDependencies": {
     "concurrently": "^7.6.0"
+  },
+  "dependencies": {
+    "mongoose": "^6.8.4"
   }
 }
